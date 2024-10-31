@@ -1,0 +1,438 @@
+#. Plugin Name of the plugin/theme
+msgid "Advanced Redirect Thank You for Woocommerce"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:134 includes/class-wmprty-admin.php:135
+msgid "Woo Payment Redirect Thank You"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:265
+msgid "Product Redirect"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:266
+msgid "Payment Gateway Redirect"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:267
+msgid "Getting Started"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:325 settings/wmprty-common-function.php:180
+#: settings/wmprty-common-function.php:197
+msgid "Please select product"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:326 includes/class-wmprty-admin.php:328
+#: settings/wmprty-common-function.php:306
+#: settings/wmprty-common-function.php:323
+#: settings/wmprty-common-function.php:365
+#: settings/wmprty-common-function.php:382
+msgid "Select a page from your website"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:327
+msgid "Please select payment gateway"
+msgstr ""
+
+#: includes/class-wmprty-admin.php:500
+msgid "Redirection successfully created."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:502
+msgid "Redirection successfully updated."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:504
+msgid "Redirection deleted."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:506
+msgid "Redirection duplicated."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:508
+msgid "Redirection disabled."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:510
+msgid "Redirection enabled."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:513
+msgid "There was an error with saving data."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:515 includes/class-wmprty-admin.php:525
+msgid "There was an error with security check."
+msgstr ""
+
+#: includes/class-wmprty-admin.php:522
+msgid "Settings save successfully"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:81
+#: includes/class-wmprty-field-table.php:81
+msgid "Title"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:82
+msgid "Payment Gateway"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:83
+#: includes/class-wmprty-field-table.php:83
+msgid "Redirect Page"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:84
+#: includes/class-wmprty-field-table.php:84 includes/class-wmprty-front.php:264
+#: settings/wmprty-admin-settings.php:41
+#: settings/wmprty-payment-admin-settings.php:40
+msgid "Status"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:85
+#: includes/class-wmprty-field-table.php:85 includes/class-wmprty-front.php:458
+msgid "Date"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:183
+#: includes/class-wmprty-field-table.php:183
+msgid "No redirection found."
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:247
+#: includes/class-wmprty-field-table.php:247
+msgid "Edit"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:248
+#: includes/class-wmprty-field-payment-table.php:346
+#: includes/class-wmprty-field-table.php:248
+#: includes/class-wmprty-field-table.php:345
+msgid "Delete"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:249
+#: includes/class-wmprty-field-table.php:249
+msgid "Duplicate"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:265
+#: includes/class-wmprty-field-payment-table.php:287
+#: includes/class-wmprty-field-table.php:265
+#: includes/class-wmprty-field-table.php:287
+msgid "Everywhere"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:268
+#: includes/class-wmprty-field-payment-table.php:345
+#: includes/class-wmprty-field-table.php:268
+#: includes/class-wmprty-field-table.php:344
+msgid "Enable"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:270
+#: includes/class-wmprty-field-payment-table.php:344
+#: includes/class-wmprty-field-table.php:270
+#: includes/class-wmprty-field-table.php:343
+msgid "Disable"
+msgstr ""
+
+#: includes/class-wmprty-field-payment-table.php:311
+#: includes/class-wmprty-field-payment-table.php:331
+#: includes/class-wmprty-field-table.php:310
+#: includes/class-wmprty-field-table.php:330
+msgid "-"
+msgstr ""
+
+#: includes/class-wmprty-field-setting.php:279
+#: includes/class-wmprty-product-setting.php:284
+msgid "Error with security check."
+msgstr ""
+
+#: includes/class-wmprty-field-setting.php:356
+#: includes/class-wmprty-product-setting.php:362
+msgid "Error saving Product Option."
+msgstr ""
+
+#: includes/class-wmprty-field-setting.php:433
+#: includes/class-wmprty-product-setting.php:439
+msgid "Redirect"
+msgstr ""
+
+#: includes/class-wmprty-field-setting.php:438
+#: includes/class-wmprty-product-setting.php:444
+msgid "Add New"
+msgstr ""
+
+#: includes/class-wmprty-field-setting.php:445
+#: includes/class-wmprty-product-setting.php:451
+msgid "Search results for "
+msgstr ""
+
+#: includes/class-wmprty-field-setting.php:457
+#: includes/class-wmprty-product-setting.php:463
+msgid "Search Redirection"
+msgstr ""
+
+#: includes/class-wmprty-field-table.php:82 includes/class-wmprty-front.php:481
+msgid "Product"
+msgstr ""
+
+#: includes/class-wmprty-front.php:101 includes/class-wmprty-front.php:127
+#: includes/class-wmprty-front.php:153 includes/class-wmprty-front.php:188
+msgid "v "
+msgstr ""
+
+#: includes/class-wmprty-front.php:209
+msgid "Upgrade Now!"
+msgstr ""
+
+#: includes/class-wmprty-front.php:229 settings/wmprty-admin-settings.php:69
+#: settings/wmprty-payment-admin-settings.php:68
+msgid "Note:"
+msgstr ""
+
+#: includes/class-wmprty-front.php:229 settings/wmprty-admin-settings.php:69
+#: settings/wmprty-payment-admin-settings.php:68
+msgid "Shortcode to display order details on custom redirection page"
+msgstr ""
+
+#: includes/class-wmprty-front.php:266
+msgid "Enable global thank you page"
+msgstr ""
+
+#: includes/class-wmprty-front.php:270
+msgid "Global Thank you Page"
+msgstr ""
+
+#: includes/class-wmprty-front.php:282
+msgid "Failed Custom URL"
+msgstr ""
+
+#: includes/class-wmprty-front.php:304
+msgid "Global Redirect Thank You Page"
+msgstr ""
+
+#: includes/class-wmprty-front.php:445
+msgid "Order received"
+msgstr ""
+
+#: includes/class-wmprty-front.php:451
+msgid "Order number"
+msgstr ""
+
+#: includes/class-wmprty-front.php:465 settings/wmprty-admin-settings.php:54
+#: settings/wmprty-payment-admin-settings.php:53
+msgid "Name"
+msgstr ""
+
+#: includes/class-wmprty-front.php:470
+msgid "Payment Method"
+msgstr ""
+
+#: includes/class-wmprty-front.php:475
+msgid "Order details"
+msgstr ""
+
+#: includes/class-wmprty-front.php:482
+msgid "Total"
+msgstr ""
+
+#: includes/class-wmprty-front.php:523
+msgid "Note"
+msgstr ""
+
+#: redirect-thank-you-page.php:75
+msgid "Settings"
+msgstr ""
+
+#: settings/wmprty-about-info.php:22
+msgid ""
+"Easily redirect your customers after checkout! & Boost sales & Increase "
+"conversion rates "
+msgstr ""
+
+#: settings/wmprty-about-info.php:29
+msgid ""
+"You can use any WordPress page of your choice and customize it as you "
+"prefer, so to give your own personal touch of style to the website and to "
+"fill a small gap in the purchasing process: saying thanks to them!"
+msgstr ""
+
+#: settings/wmprty-about-info.php:37
+msgid ""
+"Create checkout experience customize to each customer with Show Product "
+"Recommendations, encourage social media sharing, Offer discount coupon codes "
+"for next purchase and cross-sell recommendations. Using a custom redirect "
+"after checkout generates more opportunities to increase sales with existing "
+"customers."
+msgstr ""
+
+#: settings/wmprty-about-info.php:45
+msgid ""
+"This plugin can also be used to build a custom WooCommerce thank you the "
+"page without overriding template files!"
+msgstr ""
+
+#: settings/wmprty-about-info.php:51
+msgid "Types of redirect"
+msgstr ""
+
+#: settings/wmprty-about-info.php:59
+msgid "Set Default Global Redirect Thank You Page or  by Custom URL"
+msgstr ""
+
+#: settings/wmprty-about-info.php:60
+msgid ""
+"Set Single Product-based Custom Redirect Thank You Page or  by Custom URL"
+msgstr ""
+
+#: settings/wmprty-about-info.php:61
+msgid ""
+"Set Multiple Product-based Custom Redirect Thank You Page or  by Custom URL"
+msgstr ""
+
+#: settings/wmprty-about-info.php:62
+msgid "Set Payment Gateway Custom Redirect Thank You Page or  by Custom URL"
+msgstr ""
+
+#: settings/wmprty-about-info.php:63
+msgid "Shortcode to display order details on redirection page"
+msgstr ""
+
+#: settings/wmprty-about-info.php:64
+msgid "Beautiful Thank You page"
+msgstr ""
+
+#: settings/wmprty-about-info.php:70
+msgid "Support Product Type "
+msgstr ""
+
+#: settings/wmprty-about-info.php:77
+msgid "Simple Product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:78
+msgid "Variable Product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:79
+msgid "Bundle product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:80
+msgid "Group Product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:81
+msgid "Simple Subscription Product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:82
+msgid "Variable Subscription Product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:83
+msgid "Virtual Product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:84
+msgid "Download Product"
+msgstr ""
+
+#: settings/wmprty-about-info.php:90
+msgid "1. Set Default Global Redirect Thank You Page or by Custom URL (pro)"
+msgstr ""
+
+#: settings/wmprty-about-info.php:96
+msgid ""
+"2. Set Single Product-based Custom Redirect Thank You Page or by Custom URL "
+"(pro)"
+msgstr ""
+
+#: settings/wmprty-about-info.php:103
+msgid ""
+"3. Set Multiple Product-based Custom Redirect Thank You Page (pro) or by "
+"Custom URL (pro)"
+msgstr ""
+
+#: settings/wmprty-about-info.php:109
+msgid ""
+"4. Set Payment Gateway Custom Redirect Thank You Page or by Custom URL (pro)"
+msgstr ""
+
+#: settings/wmprty-about-info.php:116
+msgid "5. Shortcode to display order details on redirection page"
+msgstr ""
+
+#: settings/wmprty-about-info.php:122
+msgid "6. Beautiful Thank You page"
+msgstr ""
+
+#: settings/wmprty-admin-settings.php:47
+msgid "Enable product redirect cutom thank you page"
+msgstr ""
+
+#: settings/wmprty-admin-settings.php:59
+msgid "Enter name of product redirect thank you page"
+msgstr ""
+
+#: settings/wmprty-admin-settings.php:76
+#: settings/wmprty-payment-admin-settings.php:75
+msgid "Save Changes"
+msgstr ""
+
+#: settings/wmprty-common-function.php:161
+msgid "Select product which you want set custom redirect thank you page."
+msgstr ""
+
+#: settings/wmprty-common-function.php:220
+msgid ""
+"Select payment gateway which you want set custom redirect thank you page."
+msgstr ""
+
+#: settings/wmprty-common-function.php:287
+#: settings/wmprty-common-function.php:346
+msgid "Select the page where you need redirect."
+msgstr ""
+
+#: settings/wmprty-constant.php:32
+msgid "Select Product"
+msgstr ""
+
+#: settings/wmprty-constant.php:35
+msgid "Select Payment Gateway"
+msgstr ""
+
+#: settings/wmprty-constant.php:38
+msgid "Product Thank you Page"
+msgstr ""
+
+#: settings/wmprty-constant.php:41
+msgid "Payment Gateway Thank you Page"
+msgstr ""
+
+#: settings/wmprty-payment-admin-settings.php:46
+msgid "Enable payment gateway redirect custom thank you page"
+msgstr ""
+
+#: settings/wmprty-payment-admin-settings.php:58
+msgid "Enter name of payment gateway redirect thank you page"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Easily redirect your customers after checkout! Generate more opportunities "
+"to create a sale!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "actpro"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://profiles.wordpress.org/actpro/"
+msgstr ""

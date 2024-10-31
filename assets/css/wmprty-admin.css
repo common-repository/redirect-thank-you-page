@@ -1,0 +1,1101 @@
+.wmprty_main_form_section .wmprty_main_left_section {
+	width: 79%;
+	float: left;
+	padding: 0 25px 0 0;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section input[type="text"] {
+	min-height: 36px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section input[type="number"] {
+	min-height: 36px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section select {
+	min-height: 36px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .cop_ft_class {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin-bottom: 25px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .cop_ft_class .forminp {
+	width: 85%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .cop_ft_class label {
+	font-weight: 600;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .cop_ft_class .col-251 {
+	display: block;
+	width: 20%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .cop_ft_class .col-251 .col-25 {
+	display: block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .cop_ft_class .col-251 .col-25 .woocommerce-help-tip {
+	margin: 2px 8px !important;
+	float: right !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .general_field {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-start;
+	margin-bottom: 25px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .general_field .forminp {
+	width: 85%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .general_field label {
+	font-weight: 600;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .general_field .col-251 {
+	display: block;
+	width: 20%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .general_field .col-251 .col-25 {
+	display: block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_general_field_div .general_field .col-251 .col-25 .woocommerce-help-tip {
+	margin: 2px 8px !important;
+	float: right !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .cop_ft_main_field {
+	margin-bottom: 25px;
+	border-bottom: none !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section {
+	display: flex;
+	flex-direction: column;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section ul {
+	flex-direction: row;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section ul li {
+	margin-right: 10px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section ul li select {
+	width: 195px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section label.rt_label {
+	font-size: 14px;
+	margin-right: 15px;
+	vertical-align: -webkit-baseline-middle;
+	font-weight: 600;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section .wmprty_rule_type {
+	margin: 20px 0;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section .wmprty_rule_type select {
+	width: 75px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section .wmprty_rule_repeater {
+	width: 90%;
+	display: block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section .wmprty_rule_repeater ul.additional_rule_ul {
+	margin: 0 !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section .wmprty_rule_repeater .wmprty_rule_repeater_or {
+	display: inline-block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .aditional_rules_section .wmprty_rule_repeater .wmprty_rule_repeater_or h2 {
+	text-align: center;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div {
+	background-color: #f1f1f1;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div #price_extra .wmprty_extra_field_sub_div {
+	display: inline-block !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class {
+	display: flex;
+	flex-direction: row;
+	border-bottom: 1px solid #e1e1e1;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp {
+	width: 85%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 {
+	padding: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 input[type="checkbox"] {
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .wmprty_extra_field_sub_div {
+	margin-right: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .wmprty_extra_field_sub_div input[type="text"] {
+	width: 250px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .wmprty_extra_field_sub_div input[type="number"] {
+	width: 250px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .wmprty_extra_field_sub_div select {
+	width: 250px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .optgroup .optgroup-detail .opt-ul .opt-li .option-field {
+	width: 25%;
+	margin-right: 10px;
+	min-height: 34px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .optgroup .optgroup-detail .opt-ul .opt-li .remove-opt-btn {
+	text-decoration: none;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .optgroup .optgroup-detail .add-new-opt {
+	margin-top: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .wmprty_extra_field_div {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-bottom: 25px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .wmprty_extra_field_div .wmprty_extra_field_label {
+	display: block;
+	width: 15%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .forminp .forminp1 .wmprty_extra_field_div .wmprty_extra_field_inp {
+	display: block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class label {
+	font-weight: 600;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .col-251 {
+	display: block;
+	width: 20%;
+	background-color: #f9f9f9;
+	border-right: 1px solid #e1e1e1;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .col-251 .col-25 {
+	display: block;
+	padding: 25px 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .cop_ft_class .col-251 .col-25 .woocommerce-help-tip {
+	margin: 2px 8px !important;
+	float: right !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field {
+	display: flex;
+	flex-direction: row;
+	border-bottom: 1px solid #e1e1e1;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp {
+	width: 85%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 {
+	padding: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 input[type="checkbox"] {
+	margin-top: 10px;
+	display: inline-block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .wmprty_extra_field_sub_div {
+	margin-right: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .wmprty_extra_field_sub_div input[type="text"] {
+	width: 250px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .wmprty_extra_field_sub_div input[type="number"] {
+	width: 250px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .wmprty_extra_field_sub_div select {
+	width: 250px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .optgroup .optgroup-detail .opt-ul .opt-li .option-field {
+	width: 25%;
+	margin-right: 10px;
+	min-height: 34px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .optgroup .optgroup-detail .opt-ul .opt-li .remove-opt-btn {
+	text-decoration: none;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .optgroup .optgroup-detail .add-new-opt {
+	margin-top: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .wmprty_extra_field_div {
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	margin-bottom: 25px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .wmprty_extra_field_div .wmprty_extra_field_label {
+	display: block;
+	width: 15%;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .forminp .forminp1 .wmprty_extra_field_div .wmprty_extra_field_inp {
+	display: block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field label {
+	font-weight: 600;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .col-251 {
+	display: block;
+	width: 20%;
+	background-color: #f9f9f9;
+	border-right: 1px solid #e1e1e1;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .col-251 .col-25 {
+	display: block;
+	padding: 25px 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .general_field .col-251 .col-25 .woocommerce-help-tip {
+	margin: 2px 8px !important;
+	float: right !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_fields_header {
+	background-color: #fff;
+	padding: 1px 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div {
+	padding: 20px 25px 20px;
+	background-color: #fff;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div {
+	background-color: #fff;
+	border: 1px solid #e4e4e4;
+	margin-bottom: 25px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .heading_label {
+	display: flex;
+	flex-direction: row;
+	background-color: #fff;
+	justify-content: space-between;
+	padding: 10px 10px;
+	align-items: center;
+	text-align: center;
+	border-bottom: #eee solid 1px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .heading_label .heading_label_title {
+	display: block;
+	width: 20%;
+	text-align: center;
+	font-size: 12px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .heading_label .heading_label_title strong {
+	font-size: 15px;
+	font-weight: 700;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .heading_label .heading_nu_label_title {
+	width: 2%;
+	text-align: center;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div td.poststuff {
+	display: block;
+	width: 1036px !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls {
+	border-bottom: #eee solid 1px;
+	cursor: move;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_ct_div {
+	border: none !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title {
+	display: flex;
+	flex-direction: row;
+	background-color: #fff;
+	padding: 20px 10px;
+	align-items: center;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .heading_nu_title {
+	width: 2%;
+	text-align: center;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .heading_title {
+	width: 20%;
+	text-align: center;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .accordion_a_cls {
+	padding: 0 8px;
+	cursor: pointer;
+	text-decoration: none;
+	display: block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .accordion_a_cls:focus {
+	box-shadow: none !important;
+	outline: none !important;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .accordion_a_cls h3 {
+	margin: 0 !important;
+	font-size: 16px;
+	display: inline-block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .accordion_a_cls span.dashicons.dashicons-arrow-right-alt2 {
+	margin-right: 5px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .accordion_a_cls span.dashicons.dashicons-arrow-down-alt2 {
+	margin-right: 5px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .accordion_a_cls_remove {
+	text-decoration: none;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title .accordion_a_cls_remove span.dashicons.dashicons-trash {
+	font-size: 16px;
+	margin-left: 5px;
+	vertical-align: top;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title.active {
+	background: #2a9bd9;
+	color: #fff;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title.active .accordion_a_cls {
+	color: #fff;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title.active .accordion_a_cls h3 {
+	color: #fff;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .accordion_cls .accordion_cls_title.active .accordion_a_cls_remove {
+	color: #fff;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .addon_fields_main_div .addon_sub_field_data_div .addon_fields_sub_div .add_new_field {
+	margin-top: 20px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .wmprty_getting_started_info {
+	display: block;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .wmprty_getting_started_info p.wmprty_gs.aboutinfo {
+	margin-bottom: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .wmprty_getting_started_info p.wmprty_gs.info_text {
+	margin-bottom: 15px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .wmprty_getting_started_info p.wmprty_gs.info_text span.aboutinfo {
+	text-align: center !important;
+	width: 100%;
+	float: left;
+	margin-bottom: 20px;
+}
+
+.wmprty_main_form_section .wmprty_main_left_section .wmprty_getting_started_info p.wmprty_gs.info_text span.aboutinfo img {
+	width: 60% !important;
+	border: 2px solid #e9e9e9;
+	margin-top: 3%;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section {
+	width: 19%;
+	float: left;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link {
+	background: #fff none repeat scroll 0 0;
+	border-bottom: 2px solid #ccc;
+	margin-bottom: 10px;
+	padding: 10px 0;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link h2 {
+	font-size: 15px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .image_box {
+	max-width: 100px;
+	width: 100%;
+	margin: 0 auto;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .image_box img {
+	width: 100%;
+	max-width: 100%;
+	margin: 0 auto;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .content_box {
+	text-align: center;
+	padding: 0 14px;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .content_box a.btn_style {
+	background-color: #0085ba;
+	padding: 10px;
+	border-radius: 4px;
+	margin-bottom: 10px;
+	display: inline-block;
+	color: #fff;
+	font-weight: 600;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .video-detail {
+	width: 100%;
+	display: inline-block;
+	text-align: left;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .video-detail ul {
+	display: block;
+	width: 100%;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .video-detail ul li {
+	font-size: 13px;
+	color: #666;
+	margin-top: 10px;
+	font-family: "Open Sans", sans-serif;
+	width: 94%;
+	padding-left: 16px;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .video-detail ul li img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-right: 5px;
+}
+
+.wmprty_main_form_section .wmprty_main_right_section .dotstore-important-link .video-detail ul li a {
+	width: 70%;
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 24px;
+	font-size: 14px;
+}
+
+.wmprty-thank-you-page {
+	width: 100%;
+}
+
+.wmprty-thank-you-page h2 {
+	color: #23282d;
+	font-size: 1.3em;
+	margin: 1em 0;
+	display: block;
+	font-weight: 500;
+	font-family: Montserrat, sans-serif;
+}
+
+.wmprty-thank-you-tabs {
+	margin-top: 50px;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+}
+
+.wmprty-thank-you-tabs ul {
+	display: block;
+	min-width: 250px;
+	background-color: #fff;
+	padding: 30px 20px 30px 20px;
+	margin: 0 30px 0 0;
+	box-shadow: 8px 21px rgba(0, 0, 0, 0.1);
+}
+
+.wmprty-thank-you-tabs ul li {
+	list-style: none;
+	width: 100%;
+	border-style: dashed;
+	border-width: 0 0 1px 0;
+	border-color: #c3c3c3;
+}
+
+.wmprty-thank-you-tabs ul li a {
+	text-decoration: none;
+	width: 100%;
+	font-family: Montserrat, sans-serif;
+	font-size: 16px;
+	font-weight: 400;
+	text-transform: capitalize;
+	text-align: left;
+	color: #777;
+	display: block;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.wmprty-thank-you-tabs ul li a:focus {
+	border: 0;
+	box-shadow: none;
+	outline: 0;
+}
+
+.wmprty-thank-you-tabs ul li a:active {
+	border: 0;
+	box-shadow: none;
+	outline: 0;
+}
+
+.wmprty-thank-you-tabs .wmprty-thank-you-tab-button li:hover {
+	border-color: #15c7a4;
+}
+
+.wmprty-thank-you-tabs .wmprty-thank-you-tab-button li a:hover {
+	color: #15c7a4;
+}
+
+.wmprty-thank-you-tabs .wmprty-thank-you-tab-button .active {
+	border-color: #15c7a4;
+}
+
+.wmprty-thank-you-tabs .wmprty-thank-you-tab-button .active a {
+	color: #15c7a4;
+}
+
+.wmprty-thank-you-tab-content {
+	width: 100%;
+	padding: 20px 50px;
+	background: #fff;
+	box-shadow: 8px 21px rgba(0, 0, 0, 0.1);
+}
+
+.wmprty-thank-you-tab-content table tr td {
+	position: relative;
+}
+
+.wmprty-thank-you-tab-content table tr td .wmprty_thank_youtooltip {
+	margin-left: 6px;
+	border: 1px solid;
+	width: 16px;
+	height: 16px;
+	border-radius: 40px;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	font-size: 11px;
+	font-weight: 600;
+	cursor: pointer;
+	position: relative;
+}
+
+.wmprty-thank-you-tab-content table tr td .wmprty_thank_youtooltip:hover .wmprty_thank_youtooltip_content {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	background: #000;
+	border-radius: 8px;
+	color: #fff;
+	margin: -83px;
+	font-size: 12px;
+	padding: 10px;
+	width: 200px;
+	position: absolute;
+	top: 112px;
+	z-index: 9999;
+}
+
+.wmprty-thank-you-tab-content table tr td .wmprty_thank_youtooltip:hover:before {
+	border: solid;
+	border-color: #000 transparent;
+	border-width: 5px 12px 5px;
+	content: "";
+	left: 15%;
+	top: 17px;
+	position: absolute;
+}
+
+.wmprty_thank_youtooltip_content {
+	display: none;
+}
+
+label.wmprty_addon_status_id_label {
+	font-weight: 400 !important;
+	margin-top: -4px;
+	display: inline-block;
+}
+
+.wmprty_thank_you_custom_checkbox {
+	display: flex;
+	cursor: pointer;
+	-webkit-tap-highlight-color: transparent;
+}
+
+.wmprty_thank_you_custom_checkbox i {
+	position: relative;
+	display: inline-block;
+	margin-right: 1rem;
+	width: 50px;
+	height: 25px;
+	background-color: #d1d0d0;
+	border-radius: 23px;
+	vertical-align: text-bottom;
+	transition: all 0.3s linear;
+}
+
+.wmprty_thank_you_custom_checkbox i::before {
+	content: "";
+	position: absolute;
+	left: 0;
+	width: 42px;
+	height: 22px;
+	background-color: #d1d0d0;
+	border-radius: 11px;
+	transform: translate3d(2px, 2px, 0) scale3d(1, 1, 1);
+	transition: all 0.25s linear;
+}
+
+.wmprty_thank_you_custom_checkbox i::after {
+	content: "";
+	position: absolute;
+	left: 0;
+	width: 21px;
+	height: 21px;
+	background-color: #fff;
+	border-radius: 11px;
+	box-shadow: 0 2px 2px rgba(0, 0, 0, 0.24);
+	transform: translate3d(2px, 2px, 0);
+	transition: all 0.2s ease-in-out;
+}
+
+.wmprty_thank_you_custom_checkbox:active i::after {
+	width: 28px;
+	transform: translate3d(2px, 2px, 0);
+}
+
+.wmprty_thank_you_custom_checkbox:active input:checked + i::after {
+	transform: translate3d(16px, 2px, 0);
+}
+
+.wmprty_thank_you_custom_checkbox input {
+	display: none;
+}
+
+.wmprty_thank_you_custom_checkbox input:checked + i {
+	background-color: #15c7a4;
+	background-image: -webkit-linear-gradient(-169deg, #15c7a4 0%, #37de89 100%);
+}
+
+.wmprty_thank_you_custom_checkbox input:checked + i::before {
+	transform: translate3d(18px, 2px, 0) scale3d(0, 0, 0);
+}
+
+.wmprty_thank_you_custom_checkbox input:checked + i::after {
+	transform: translate3d(26px, 2px, 0);
+}
+
+.wmprty_thank_you_page_general label {
+	margin: 0 !important;
+}
+
+.wmprty_thank_you_page_general tr td {
+	font-size: 16px;
+	color: #404040;
+	padding: 15px 50px 15px;
+	width: 200px;
+}
+
+.custom_tab_options {
+	background-color: #15c7a4;
+	background-image: -webkit-linear-gradient(-169deg, #15c7a4 0%, #37de89 100%);
+}
+
+.custom_tab_options a {
+	color: #fff !important;
+}
+
+.custom_tab_options.active {
+	background-color: #15c7a4;
+	background-image: -webkit-linear-gradient(-169deg, #15c7a4 0%, #37de89 100%);
+	color: #fff !important;
+}
+
+.custom_tab_options.active a {
+	background-color: #15c7a4;
+	background-image: -webkit-linear-gradient(-169deg, #15c7a4 0%, #37de89 100%);
+	color: #fff !important;
+}
+
+.wmprty_thank_you_page_url {
+	width: 245px !important;
+	height: 32px;
+}
+
+#WPTE_thankyou_page_url {
+	display: none;
+}
+
+.select2-container {
+	width: 245px !important;
+}
+
+.select2-container .select2-selection--single {
+	padding: 2px !important;
+	height: 33px !important;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+	top: 4px !important;
+}
+
+.select2-search--dropdown .select2-search__field {
+	padding: 4px !important;
+}
+
+.WPTE_options_group {
+	display: none;
+}
+
+.tab-content table tr td {
+	position: relative;
+}
+
+.tab-content table tr td .wmprty_thank_you_tooltip {
+	margin-left: 6px;
+	border: 1px solid;
+	width: 16px;
+	height: 16px;
+	border-radius: 40px;
+	display: inline-block;
+	text-align: center;
+	font-size: 11px;
+	font-weight: 600;
+	cursor: pointer;
+	position: relative;
+}
+
+.tab-content table tr td .wmprty_thank_you_tooltip:hover .wmprty_thank_you_tooltip_content {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-justify-content: center;
+	justify-content: center;
+	background: #000;
+	border-radius: 8px;
+	color: #fff;
+	margin: -83px;
+	font-size: 12px;
+	padding: 10px;
+	width: 200px;
+	position: absolute;
+	top: 112px;
+	z-index: 9999;
+}
+
+.tab-content table tr td .wmprty_thank_you_tooltip:hover:before {
+	border: solid;
+	border-color: #000 transparent;
+	border-width: 5px 12px 5px;
+	content: "";
+	left: 15%;
+	top: 17px;
+	position: absolute;
+}
+
+.wmprty_thank_you_tooltip_content {
+	display: none;
+}
+
+.wmprty-thank-you-product-page-warning {
+	background: #faf3e0;
+}
+
+#wmprty-dashboard-widget-admin-top-bar {
+	position: absolute;
+	opacity: 0;
+	pointer-events: none;
+}
+
+#wmprty-admin-top-bar-root {
+	right: 0;
+	background: #fff;
+	-webkit-box-shadow: 4px 6px rgba(0, 0, 0, 0.0394871);
+	box-shadow: 4px 6px rgba(0, 0, 0, 0.0394871);
+	display: none;
+	position: absolute;
+	top: 0;
+	width: calc(100% - 160px);
+	z-index: 1;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar {
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	height: 50px;
+	-webkit-box-pack: justify;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
+	padding: 0 16px;
+}
+
+#wmprty-admin-top-bar-root .page-title-action {
+	background: #f7f7f7;
+	border: 1px solid #0275d8;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	color: #0275d8;
+	cursor: pointer;
+	display: inline-block;
+	line-height: 30px;
+	margin: 0 4px;
+	min-height: 30px;
+	padding: 0 10px;
+	text-decoration: none;
+}
+
+#wmprty-admin-top-bar-root .page-title-action:hover {
+	background: #eceeef;
+	border-color: #1b607f;
+	color: #1b607f;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__heading {
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-webkit-margin-end: 40px;
+	margin-inline-end: 40px;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__main-area {
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__main-area button {
+	margin: 0 4px;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__secondary-area {
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__heading-logo {
+	width: 30px;
+	background: #93003c;
+	-webkit-border-radius: 15px;
+	border-radius: 15px;
+	color: #fff;
+	display: inline-block;
+	font-size: 0.875rem;
+	height: 1.875rem;
+	line-height: 30px;
+	text-align: center;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__heading-title {
+	color: #495157;
+	font-size: 15px;
+	font-weight: 700;
+	font-family: Roboto, Arial, Helvetica, Verdana, sans-serif;
+	padding: 0 8px;
+	line-height: normal;
+	text-transform: uppercase;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__bar-button {
+	-webkit-box-align: center;
+	-ms-flex-align: center;
+	align-items: center;
+	cursor: pointer;
+	display: -webkit-inline-box;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	-webkit-box-pack: center;
+	-ms-flex-pack: center;
+	justify-content: center;
+	margin: 0 10px;
+	text-decoration: none;
+	color: #6d7882;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__bar-button .wmprty-admin-top-bar__bar-button-title {
+	color: #6d7882;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__bar-button .wmprty-admin-top-bar__bar-button-icon {
+	margin: 0 4px;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__bar-button:hover .wmprty-admin-top-bar__bar-button-title {
+	color: #93003c;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__bar-button:hover .wmprty-admin-top-bar__bar-button-icon {
+	color: #93003c;
+}
+
+#wmprty-admin-top-bar-root .wmprty-admin-top-bar__bar-button-title {
+	font-size: 13px;
+	font-weight: 500;
+	font-family: Roboto;
+	margin: 0 4px;
+	line-height: normal;
+}
+
+#wmprty-admin-top-bar-root.wmprty-admin-top-bar--active {
+	display: block;
+}
+
+#wmprty-admin-top-bar-root.wmprty-admin-top-bar--active ~ #wpbody #wpbody-content {
+	margin-top: 50px;
+}
+
+#wmprty-admin-top-bar-root.wmprty-admin-top-bar--active ~ #wpbody .wrap {
+	clear: both;
+	padding-top: 10px;
+}
+
+#wmprty-admin-top-bar-root.wmprty-admin-top-bar--inactive ~ #wpbody .wrap h1 {
+	display: inline-block;
+}
+
+#wmprty-admin-top-bar-root.wmprty-admin-top-bar--inactive ~ #wpbody .wrap .page-title-action {
+	display: inline-block;
+}
+
+@media screen and (max-width: 960px) {
+	#wmprty-admin-top-bar-root {
+		width: calc(100% - 36px);
+	}
+}
+
+@media screen and (max-width: 782px) {
+	#wmprty-admin-top-bar-root {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 600px) {
+	#wmprty-admin-top-bar-root {
+		top: 46px;
+	}
+}
+
+@media (max-width: 768px) {
+	#wmprty-admin-top-bar-root {
+		display: -webkit-inline-box;
+		display: -ms-inline-flexbox;
+		display: inline-flex;
+		-webkit-box-align: center;
+		-ms-flex-align: center;
+		align-items: center;
+		-webkit-box-pack: center;
+		-ms-flex-pack: center;
+		justify-content: center;
+	}
+	#wmprty-admin-top-bar-root .wmprty-admin-top-bar__main-area-buttons {
+		position: absolute;
+		top: calc(100% + 10px);
+	}
+	#wmprty-admin-top-bar-root .wmprty-admin-top-bar__secondary-area .wmprty-admin-top-bar__secondary-area-buttons {
+		display: none;
+	}
+	#wmprty-admin-top-bar-root .wmprty-admin-top-bar__secondary-area > .wmprty-admin-top-bar__bar-button .wmprty-admin-top-bar__bar-button-title {
+		display: none;
+	}
+}
+
+@media (min-width: 768px) {
+	#wmprty-admin-top-bar-root .wmprty-admin-top-bar__secondary-area .wmprty-admin-top-bar__secondary-area-buttons {
+		display: -webkit-box;
+		display: -ms-flexbox;
+		display: flex;
+	}
+}
